@@ -174,4 +174,4 @@ def extract_all():
 
 
 if __name__ == "__main__":
-    extract_all()
+    extract_table_by_indicator("TIPO DE ETANOL", "producao-etanol-b.xls", "producao-etanol")
